@@ -1,0 +1,25 @@
+{
+  "name": "omdb-api-fetcher",
+  "version": "0.0.1",
+  "description": "Predefined OMDb api fetcher",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RandomModules/omdb-api-fetcher.git"
+  },
+  "author": "RandomModules",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RandomModules/omdb-api-fetcher/issues"
+  },
+  "homepage": "https://github.com/RandomModules/omdb-api-fetcher#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
